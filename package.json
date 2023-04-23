@@ -1,5 +1,5 @@
 {
-  "name": "reactfirstapp",
+  "name": "bmi-calc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

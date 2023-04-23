@@ -1,0 +1,32 @@
+.btn-active {
+    background: #90C8FC;
+}
+
+.btn-dis {
+    background: #576E84;
+}
+
+.btn-selector {
+    width: 240px;
+    height: 72px;
+    border-radius: 12px;
+}
+
+.bmi-submitter { 
+    background: #90C8FC;
+    width: 240px;
+    height: 60px;
+    border-radius: 12px;
+}
+
+
+.bmi-input {
+    font-size: 21px;
+    color: white;
+    background: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.bmi-input-long  { width: 284px; }
+.bmi-input-short { width: 118px; }
